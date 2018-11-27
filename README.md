@@ -2,4 +2,3 @@
 
 # IFCE-Campus Tauá <3
 
-# By: Sidão...
