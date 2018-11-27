@@ -12,7 +12,7 @@ public class Ex2869 {
 		
 		qtd = n.nextInt();
 		
-		
+		//esse código não está funcionando perfeitamente! apenas para teste!  
 		for(int x=0;x<qtd;x++)
 		{
 			
